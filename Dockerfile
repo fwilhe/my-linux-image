@@ -1,0 +1,1 @@
+FROM ghcr.io/gardenlinux/builder:ca6b3f755ea31470dbca42d57c5cbbc62d1245a8
