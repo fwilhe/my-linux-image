@@ -1,1 +1,1 @@
-FROM ghcr.io/fwilhe/builder:v2
+FROM ghcr.io/fwilhe/builder:v3
